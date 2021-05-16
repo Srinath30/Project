@@ -28,7 +28,6 @@ This a Online shopping system demo web application  for NIIT Second Semester Pro
 * **Register Page**
 
 ![Screenshot (180)](https://user-images.githubusercontent.com/74188422/118391376-8bdc2a00-b651-11eb-8ace-591123ec5d53.png)
-
 ![Screenshot (181)](https://user-images.githubusercontent.com/74188422/118391187-a530a680-b650-11eb-9aa4-b546ef9399ee.png)
 
 * **Login Page**
